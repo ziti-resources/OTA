@@ -3,6 +3,17 @@ Changelog
 
 19/09/2026
 ---------------
+- use Sony Dolby blobs
+- add Dolby Atmos & Dolby Vision
+- updated LunarisDolby UI
+- implement torch light strength control
+- improve powerhint for performance + battery backup
+- atempt to fix front camera crash
+- update blobs from CPH2569_15.0.0.2001(EX01)
+- sync latest source (as of 12-11-2026)
+
+19/09/2026
+---------------
 - fix secure element log spam
 - merge upstream kernel
 - no more builtin KernelSU-Next
